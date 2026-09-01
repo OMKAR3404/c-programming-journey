@@ -50,7 +50,7 @@ The variable exists while the block/function is executing.
 I noticed that auto is rarely written explicitly because ordinary
 local variables already have automatic storage duration by default.
 
-2. static
+## 2. static
 
 static behaves differently depending on where it is used.
 
@@ -88,7 +88,7 @@ internal linkage.
 
 This means the variable can only be accessed from the same source file.
 
-3. extern
+## 3. extern
 
 extern is used when a variable is defined somewhere else.
 
