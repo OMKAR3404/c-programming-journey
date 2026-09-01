@@ -22,7 +22,7 @@ The important properties to understand are:
 | `auto`            | Block          | Block execution             | None     |
 | `static` (local)  | Block          | Entire program              | None     |
 | `static` (global) | File           | Entire program              | Internal |
-| `extern`          | File / Program | Entire program              | External |
+|`extern `          | File / Program | Entire program              | External |
 | `register`        | Block          | Block execution             | None     |
 
 
